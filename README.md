@@ -1,7 +1,7 @@
 # Display Delight Fabric
 A port of the NeoForge mod https://modrinth.com/mod/display-delight.
 
-Currently, the mod only supports Minecraft version **1.21.1**
+Currently, the mod only supports Minecraft version **1.20.x**
 
 ## Issues
 * Only some compatibility is added. The following are compatible:
